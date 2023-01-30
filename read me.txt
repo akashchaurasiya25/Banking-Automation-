@@ -1,0 +1,7 @@
+﻿first user need to create account by clicking open new account button
+now user can login using generated account no and given password
+after login user can perform following operations:
+        >check bal
+        >.
+        >
+        >
